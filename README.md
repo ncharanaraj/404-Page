@@ -1,5 +1,7 @@
 # 404 NOT FOUND PAGE 
 
+This 404 Not Found was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
 ## Overview
 
 ![Untitled design](https://user-images.githubusercontent.com/43924299/224300684-b4480660-f209-430a-bb3d-670de58f6702.png)
@@ -8,12 +10,6 @@
 
 - HTML
 - CSS
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This 404 Not Found was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Contact
 
